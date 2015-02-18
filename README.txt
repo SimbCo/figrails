@@ -22,3 +22,5 @@ test:
 
 6. fig up
 7. fig run web rake db:create
+8. `boot2docker ip` to get the ip of the server.
+9. Open browser to http://<ip>:3000
